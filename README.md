@@ -4,8 +4,6 @@
 
 Assistente virtual de Recursos Humanos desenvolvido com **n8n**, **Telegram**, **MySQL**, **Cohere AI** e **Vector Store**, capaz de responder dúvidas de colaboradores, consultar informações de funcionários e fornecer suporte automatizado de RH.
 
-![Project Preview](./images/preview.png)
-
 ---
 
 ## 📌 Sobre
