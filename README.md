@@ -4,6 +4,8 @@
 
 Assistente virtual de Recursos Humanos desenvolvido com **n8n**, **Telegram**, **MySQL**, **Cohere AI** e **Vector Store**, capaz de responder dúvidas de colaboradores, consultar informações de funcionários e fornecer suporte automatizado de RH.
 
+![Project Preview](./images/preview.png)
+
 ---
 
 ## 📌 Sobre
@@ -18,6 +20,8 @@ O assistente é capaz de:
 * Utilizar uma base de conhecimento para responder perguntas gerais de RH.
 * Interagir diretamente pelo Telegram.
 * Manter contexto das conversas utilizando memória integrada.
+
+> 💡 Projeto desenvolvido como parte das atividades práticas da **Imersão do Programa MCIO & ONE (Oracle Next Education)**, uma iniciativa realizada pela **Oracle**, **Alura** e **Academia MCIO Brasil**, com foco na capacitação e desenvolvimento de talentos na área de tecnologia.
 
 ---
 
@@ -87,9 +91,9 @@ funcionarios
 Exemplo de informações armazenadas:
 
 * Nome completo
-* Saldo de férias
-* Banco de horas
-* Identificador do funcionário
+* Saldo de férias.
+* Banco de horas.
+* Identificador do funcionário.
 
 ---
 
@@ -123,27 +127,16 @@ Durante o desenvolvimento deste projeto foram praticados:
 * Desenvolvimento de chatbots para Telegram.
 * Uso de memória e contexto em agentes inteligentes.
 * Busca semântica utilizando embeddings e Vector Store.
+* Engenharia de prompts para agentes de IA.
+* Integração entre múltiplas ferramentas e serviços.
 
 ---
 
 ## ⚠️ Aviso
 
-Este projeto foi desenvolvido para fins acadêmicos e demonstração de conhecimentos em automação, inteligência artificial e integração de sistemas.
+Este projeto foi desenvolvido para fins educacionais e demonstração de conhecimentos em automação, inteligência artificial e integração de sistemas.
 
 Os dados utilizados são fictícios e não representam informações reais de funcionários.
 
----
 
-## 🔗 Links
 
-* Telegram Bot: HR Buddy
-* Plataforma: n8n
-* Banco de Dados: MySQL
-* IA Generativa: Cohere AI
-
-### 👩‍💻 Desenvolvido por
-
-**Maria Eduarda da Costa Barros Gonçalves**
-
-* GitHub: https://github.com/Eduardabarroscbg
-* LinkedIn: [www.linkedin.com/in/maria-eduarda-costa-barros-gonçalves-6050a5276](http://www.linkedin.com/in/maria-eduarda-costa-barros-gonçalves-6050a5276)
